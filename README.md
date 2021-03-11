@@ -1,10 +1,10 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 12.03.2021
-**Name:** Erşan
-**Surname:** Altürk
-**Email:** e***@yandex.com
+**Course Date:** 12.03.2021 
+**Name:** Erşan 
+**Surname:** Altürk 
+**Email:** e***@yandex.com 
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
